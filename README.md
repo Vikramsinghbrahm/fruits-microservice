@@ -25,8 +25,7 @@ The `fruit-total-price-service` microservice interacts with `fruit-price-service
 2. **fruit-total-price-service:**
    - Communicates with `fruit-price-service` to get the cost of each fruit.
    - Exposes an endpoint to calculate the total price based on the quantity of each fruit specified by the user.
-   - Example:
-     - `/total-price?apple=3&banana=5` returns the total price for 3 apples and 5 bananas.
+
 
 ## How to Use
 
